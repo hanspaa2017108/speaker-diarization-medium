@@ -1,0 +1,14 @@
+ffmpeg-python
+python-dotenv
+torchaudio
+openai-whisper
+soundfile
+assemblyai
+
+
+# iit madras video
+pyannote.audio
+faster_whisper
+speechbrain==1.0
+whisper
+librosa
